@@ -1,0 +1,321 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="new1task.css">
+    <title>Document</title>
+</head>
+
+<body class="body">
+    <div class="div-1">
+        <b class="b-1">
+            Company
+            <br>
+            Name
+        </b>
+        <a href="#home" class="a-1 a">Home</a>
+        <a href="#b-3" class="a-2 a">Showcase</a>
+        <a href="#div-5" class="a-3 a">services</a>
+        <a href="#b-5   " class="a-4 a">Disegners</a>
+        <a href="#" class="a-5 a">Packages</a>
+        <a href="#" class="a-6 a">Contact</a>
+    </div>
+
+
+    <div id="#home" class="div-2">
+        <b class="b-2">
+            Interior Design
+        </b>
+
+        <b id="#b-3" class="b-3">
+            Showcase.
+        </b>
+    </div>
+
+    <div class="div-3">
+        <img src="images//kitchenconcrete.jpg" class="img-1 img">
+        <img src="images/livingroom.jpg" class="img-2 img">
+        <img src="images/diningroom.jpg" class="img-3 img">
+    </div>
+    <div class="div-4">
+        <img src="images/atrium.jpg" class="img-4 img">
+        <img src="images/bedroom.jpg" class="img-5 img">
+        <img src="images/livingroom2.jpg" class="img-6 img">
+    </div>
+
+
+    <div id="div-5" class="div-5">
+        <b class="b-4">
+            Services.
+        </b>
+
+
+    </div>
+
+
+
+    <p class="p-1">
+        We are a interior design service that focus on what's best for your home and what's best for you!
+        <br>
+        <br>
+
+        Some text about our services - what we do and what we offer. We are lorem ipsum consectetur adipiscing elit,
+        sed do eiusmod tempor incididunt ut labore et dolore <br> magna aliqua. Ut enim ad minim veniam, quis nostrud
+        exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit
+        in <br> voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
+        proident, sunt in culpa qui officia deserunt mollit anim id est laborum <br> consectetur adipiscing elit, sed do
+        eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud
+        exercitation ullamco laboris nisi <br> ut aliquip ex ea commodo consequat.
+    </p>
+
+
+
+
+    <div id="div-6" class="div-6">
+        <b id="b-5" class="b-5">
+            Designers.
+        </b>
+
+
+    </div>
+
+
+
+    <p class="p-2">
+        The best team in the world.
+        <br>
+        <br>
+        We are lorem ipsum consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna
+        aliqua. Ut enim ad minim veniam, quis nostrud <br> exercitation ullamco laboris nisi ut aliquip ex ea commodo
+        consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla
+        pariatur. <br> Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id
+        est
+        laborum consectetur adipiscing elit, sed do eiusmod tempor <br> incididunt ut labore et quis nostrud
+        exercitation
+        ullamco laboris nisi ut aliquip ex ea commodo consequat.
+    </p>
+
+
+
+
+    <div style="background-color: lightgray;">
+        <img src="images/team2.jpg" class="img-7 images">
+        <img src="images/team1.jpg" class="img-8 images">
+        <img src="images/team3.jpg" class="img-9 images">
+        
+
+</div>
+
+    <div class="div-333">
+        <h3 class="h3-1">
+            John Doe
+        </h3>
+
+        <p class="p-3">
+            CEO & Founder
+        </p>
+
+        <p class="p-4">
+            Phasellus eget enim eu lectus faucibus <br> vestibulum. Suspendisse sodales pellentesque <br> elementum.
+        </p>
+    </div>
+
+
+
+    <div>
+        <h3 class="h3-2">
+            Jane Doe
+        </h3>
+
+        <p class="p-5">
+            Designer
+        </p>
+
+        <p class="p-6">
+            Phasellus eget enim eu lectus faucibus <br> vestibulum. Suspendisse sodales pellentesque <br> elementum.
+        </p>
+    </div>
+
+    <div>
+        <h3 class="h3-3">
+            Mike Ross
+        </h3>
+
+        <p class="p-7">
+            Architect
+        </p>
+
+        <p class="p-8">
+            Phasellus eget enim eu lectus faucibus <br> vestibulum. Suspendisse sodales pellentesque <br> elementum.
+        </p>
+    </div>
+
+    <div>
+        <b class="b-6">
+            Packages.
+        </b>
+
+        <p class="p-9">
+            Some text our prices. Lorem ipsum consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et
+            dolore magna <br> aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip
+            ex
+            ea commodo consequat. Duis aute <br> irure
+        </p>
+    </div>
+
+    <div class="div-7">
+        <div class="div-chld-1">
+            <b class="b-7">
+                Basic
+            </b>
+        </div>
+
+
+        <div class="div-chld-2">
+            <p class="p-10">
+                Floorplanning
+            </p>
+        </div>
+
+
+        <div class="div-chld-2">
+            <p class="p-10">
+                10 hours support
+            </p>
+        </div>
+
+        <div class="div-chld-2">
+            <p class="p-10">
+                Photography
+            </p>
+        </div>
+
+        <div class="div-chld-2">
+            <p class="p-10">
+                20% furniture discount
+            </p>
+        </div>
+
+        <div class="div-chld-2">
+            <p class="p-10">
+                Good deals
+            </p>
+        </div>
+
+        <div class="div-chld-3">
+            <p class="p-10 p-">
+                $ 199
+                <span class="span-1">
+                    per room
+                </span>
+            </p>
+
+        </div>
+
+        <div>
+            <button class="button-1">
+                Sign Up
+            </button>
+        </div>
+
+
+    </div>
+
+
+
+
+
+    <div class="div-8">
+        <div class="div-chld-3">
+            <b class="b-9">
+                Pro
+            </b>
+        </div>
+
+
+        <div class="div-chld-2">
+            <p class="p-10">
+                Floorplanning
+            </p>
+        </div>
+
+
+        <div class="div-chld-2">
+            <p class="p-10">
+                50 hours support
+            </p>
+        </div>
+
+        <div class="div-chld-2">
+            <p class="p-10">
+                Photography
+            </p>
+        </div>
+
+        <div class="div-chld-2">
+            <p class="p-10">
+                50% furniture discount
+            </p>
+        </div>
+
+        <div class="div-chld-2">
+            <p class="p-10">
+                GREAT deals
+            </p>
+        </div>
+
+        <div class="div-chld-3">
+            <p class="p-10 p-">
+                $ 199
+                <span class="span-1">
+                    per room
+                </span>
+            </p>
+
+        </div>
+
+        <div class="div-chld-5">
+            <button class="button-1 btn-2">
+                Sign Up
+            </button>
+        </div>
+
+
+
+    </div>
+
+
+    <div>
+        <b class="b-22">
+            Contact.
+        </b>
+
+        <p class="p-22">
+            Do you want us to style your home? Fill out the form and fill me in with the details :) We love meeting new
+            people!
+        </p>
+    </div>
+
+    <div>
+        <label class="label-1">Name</label>
+        <br>
+        <input type="text" class="input-1 input">
+        <br>
+        <label class="label-2">Email</label>
+        <br>
+        <input type="text" class="input-2 input">
+        <br>
+        <label class="label-3">Message</label>
+        <br>
+        <input type="text" class="input-3 input">
+
+        <button class="btn">
+            Send Message
+        </button>
+    </div>
+</body>
+
+</html>
